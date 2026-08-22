@@ -1,0 +1,4 @@
+:HL["/kempinski-reformas/_next/static/chunks/0o4y~7rtfjvon.css","style"]
+:HL["/kempinski-reformas/_next/static/media/7178b3e590c64307-s.p.0nx0ww8fni_q3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kempinski-reformas/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"privacidad","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5Nh5qHlm-m_KLAmmOi28y"}
